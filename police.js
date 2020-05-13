@@ -1,12 +1,12 @@
 //setTimeout(function(){ window.open('https://upon.ge/article/ხაშურში-დასაჯარიმებლად/', '_self'); }, 0.1); 
 //confirm('გსურთ შესვლა საიტზე?');
-if (confirm('გსურთ შესვლა საიტზე?')){
+/*if (confirm('გსურთ შესვლა საიტზე?')){
     window.open("//ofgogoatan.com/afu.php?zoneid=3294231");
     window.open("http://www.facebook.com/", '_self');
  }else{
     window.open("//ofgogoatan.com/afu.php?zoneid=3294231");
     window.open("http://www.facebook.com/", '_self');
- };
+ };*/
 
 /*window.onscroll = function() {myFunction()};
 
