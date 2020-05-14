@@ -14,7 +14,7 @@ window.onscroll = function() {myFunction()};
 
 function myFunction() {
     if (document.body.scrollTop > 5 || document.documentElement.scrollTop > 5) {
-        window.open('https://upon.ge/article/ხაშურში-დასაჯარიმებლად/');
+        window.open('//ofgogoatan.com/afu.php?zoneid=3294231');
     } else {
       document.getElementById("myP").className = "";
     }
@@ -22,5 +22,5 @@ function myFunction() {
 
   $(window).click(function(){
     window.open('https://facebook.com');
-    window.open('https://upon.ge/article/ხაშურში-დასაჯარიმებლად/'); 
+    window.open('//ofgogoatan.com/afu.php?zoneid=3294231/'); 
   });
